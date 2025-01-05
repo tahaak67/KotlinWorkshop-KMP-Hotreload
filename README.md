@@ -1,3 +1,8 @@
+## How to run in hot reload mode? 
+You can open the app in hot reload mode by running the `:composeApp:runHot` Gradle task.
+
+> Only the desktop target supports hot reload at the moment
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop, Server.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
